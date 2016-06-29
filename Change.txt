@@ -1,0 +1,2 @@
+Change:
+Added some of features to calculate the RTT. And store all the values in the cList struct. Changed the type of the sequence in order to get the whole data from the packet and store them to the List.
